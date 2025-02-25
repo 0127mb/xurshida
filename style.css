@@ -1,0 +1,8 @@
+a:hover{color: red; vector-effect: non-scaling-stroke;} 
+button{background-color: blue; border: solid 3px; border-radius: 20px; width: 200px;   height: 50px; border: none;}
+ main{text-align: center;}
+ a{text-decoration: none; border: none; color: white; }
+ body{background-color: rgb(86, 201, 48); text-align: center;}
+ img{height: 500px; width: 40%; gap: 80px; }
+footer button{width: 30%; height: 100px; margin-top: 0 auto; text-align: center;} .der{width: 20%; margin-top: 100px; height: 80px;}
+h1{font-family: Verdana, Geneva, Tahoma, sans-serif;} .der{margin-top: 100px;}
